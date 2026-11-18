@@ -1,74 +1,81 @@
-<h1 align="left">Hi there 👋</h1>
+<h1 align="center">Davide Alovisio</h1>
 
-<p align="left">
-  I’m <strong>Davide Alovisio</strong>, Jr Full‑Stack Developer &amp; IT‑Automation enthusiast,<br/>
-  currently working at <strong>Doppincolla S.R.L.</strong> (2025‑present).
+<p align="center">
+  <strong>Full-Stack Developer</strong> · Torino, Italy<br/>
+  Web applications, legacy modernization and IT security
 </p>
 
-<h2 align="left">About me</h2>
-
-<p align="left">
-  ✨ Creating features (and the occasional bug) since 2024.<br/>
-  📚 Right now I’m polishing clean‑code patterns and DevOps automation.<br/><br/>
-  🎯 <strong>2025 Goals</strong><br/>
-  • Ship at least two production‑ready full‑stack apps.<br/>
-  • Contribute to open‑source Vue / Laravel or Three.js projects.<br/>
-  • Level‑up my AI‑integration skills with OpenAI, Ollama &amp; Make.<br/>
+<p align="center">
+  <a href="https://davidealovisioportfolio.com/en/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/davide-alovisio/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:alovisiod@davidealovisioportfolio.com"><strong>Email</strong></a>
 </p>
 
-<h2 align="left">Projects</h2>
+---
 
-<ul align="left">
-  <li><a href="https://davidealovisioportfolio.com" target="_blank"><strong>Personal Portfolio</strong></a> – Next.js, SEO‑first &amp; lightning‑fast.</li>
-  <li><a href="https://contronota.site" target="_blank"><strong>Corale Contronota</strong></a> – Choir website built with React + Vite.</li>
-</ul>
+## About me
 
-<h2 align="left">I code with</h2>
+I'm a full-stack developer at **Brain Technologies** (since June 2025). I design and maintain business web applications across the whole lifecycle: analysis, front-end, back-end, database, release and support.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite"/>
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP"/>
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel"/>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="ASP.NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="MSSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js"/>
-</div>
+- 🛡️ Built a SaaS platform for cyber compliance (**ISO 27001, NIS2, GDPR**) from scratch
+- 🏭 Rewrote ERP and project-control platforms and a corporate e-learning/intranet portal
+- 🧹 Modernizing legacy code, Docker environments, testing and security analysis with remediation
+- 🎓 Full-Stack Web Development bootcamp at Boolean (2024), after a career change from manufacturing
 
-<h2 align="left">Other tools</h2>
+## Tech stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/openai" height="40" alt="OpenAI"/>
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="Apache"/>
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="Nginx"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=make" height="40" alt="Make"/>
-</div>
+**Back-end** &nbsp;
+<img src="assets/skills/php.svg" width="34" alt="PHP" title="PHP"/>&nbsp;
+<img src="assets/skills/codeigniter.svg" width="34" alt="CodeIgniter" title="CodeIgniter"/>&nbsp;
+<img src="assets/skills/laravel.svg" width="34" alt="Laravel" title="Laravel"/>&nbsp;
+<img src="assets/skills/python.svg" width="34" alt="Python" title="Python"/>&nbsp;
+<img src="assets/skills/nodejs.svg" width="34" alt="Node.js" title="Node.js"/>
 
-<h2 align="left">Education</h2>
+**Front-end** &nbsp;
+<img src="assets/skills/javascript.svg" width="34" alt="JavaScript" title="JavaScript"/>&nbsp;
+<img src="assets/skills/vue.svg" width="34" alt="Vue.js" title="Vue.js"/>&nbsp;
+<img src="assets/skills/react.svg" width="34" alt="React" title="React"/>&nbsp;
+<img src="assets/skills/jquery.svg" width="34" alt="jQuery" title="jQuery"/>&nbsp;
+<img src="assets/skills/html5.svg" width="34" alt="HTML5" title="HTML5"/>&nbsp;
+<img src="assets/skills/css3.svg" width="34" alt="CSS3" title="CSS3"/>&nbsp;
+<img src="assets/skills/sass.svg" width="34" alt="Sass" title="Sass"/>&nbsp;
+<img src="assets/skills/bootstrap.svg" width="34" alt="Bootstrap" title="Bootstrap"/>&nbsp;
+<img src="assets/skills/tailwind.svg" width="34" alt="Tailwind CSS" title="Tailwind CSS"/>
 
-<ul align="left">
-  <li><strong>Boolean Careers – Full‑Stack Web Developer Bootcamp</strong> (2024)</li>
-  <li><strong>Liceo G.F. Porporato</strong> – Diploma umanistico Socio‑Psico‑Pedagogico</li>
-</ul>
+**Data & tools** &nbsp;
+<img src="assets/skills/mysql.svg" width="34" alt="MySQL" title="MySQL"/>&nbsp;
+<img src="assets/skills/phpmyadmin.svg" width="34" alt="phpMyAdmin" title="phpMyAdmin"/>&nbsp;
+<img src="assets/skills/docker.svg" width="34" alt="Docker" title="Docker"/>&nbsp;
+<img src="assets/skills/git.svg" width="34" alt="Git" title="Git"/>
 
-<h2 align="left">Contacts</h2>
+Also: SQL Server · RESTful APIs · SOAP/WSDL · Linux · security testing
 
-<p align="left">
-  <a href="mailto:alovisiod@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/davide-alovisio" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn"/></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord"/></a>
-  <a href="https://www.instagram.com/YOUR_HANDLE" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram"/></a>
-  <a href="https://wa.me/393334753657" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" alt="WhatsApp"/></a>
-</p>
+## Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Personal portfolio**](https://davidealovisioportfolio.com/en/) | Bilingual static site with no cookies and no third-party scripts, generated from a small admin CMS | Laravel · HTML/CSS |
+| [**iiot-multitenant-gateway**](https://github.com/DavideAlovisio13/iiot-multitenant-gateway) | Proxy between industrial edge devices and a cloud PostgreSQL backend: per-partner data isolation, device authentication, de-duplication of packets from unstable links | Node.js · Express |
+| [**ticketing-ci4**](https://github.com/DavideAlovisio13/ticketing-ci4) | Ticket management system with CRUD operations, statistics and a responsive interface | CodeIgniter 4 · Bootstrap 5 |
+| [**proc-peek**](https://github.com/DavideAlovisio13/proc-peek) | Cross-platform interactive process monitor for the terminal | Python · Rich · Textual |
+| **SOAP in three steps:** [fundamentals](https://github.com/DavideAlovisio13/soap-wsdl-fundamentals) → [server & client](https://github.com/DavideAlovisio13/soap-server-mock-and-client) → [security & faults](https://github.com/DavideAlovisio13/soap-advanced-security-and-faults) | Learning path on one WSDL contract: reading it, serving and consuming it, then typed SOAP Faults, WS-Security and XSD validation | Python · Bruno |
+| [**Corale Contronota**](https://contronota.site) | Website for a choir | React · Vite |
+
+More from the bootcamp: [Boolflix](https://github.com/DavideAlovisio13/vite-boolflix) (Vue + REST API) · [BoolXtravel](https://github.com/DavideAlovisio13/space-repo) (Laravel + three.js) · [DC Comics](https://github.com/DavideAlovisio13/laravel-dc-comics) (Laravel) · [Boolzapp](https://github.com/DavideAlovisio13/vue-boolzapp) (Vue)
+
+## Certifications
+
+| | Issuer | Verify |
+|---|---|---|
+| Migrate MySQL data to Cloud SQL using Database Migration Service (Skill Badge) | Google Cloud | [Credly](https://www.credly.com/badges/c24b10a9-cbd4-4565-af57-45fd2e3324f4/linked_in_profile) |
+| Prompt Design in Vertex AI (Skill Badge) | Google Cloud | [Credly](https://www.credly.com/badges/0dcbd20c-618d-4f77-b1a3-c1c81ee70057/linked_in_profile) |
+| Google IT Support: Operating Systems and You | Google | [Coursera](https://www.coursera.org/account/accomplishments/records/3ULBTHRKNOL5) |
+| Google IT Support: The Bits and Bytes of Computer Networking | Google | [Coursera](https://www.coursera.org/account/accomplishments/records/D8PIX8785AN2) |
+| Google IT Support: Technical Support Fundamentals | Google | [Coursera](https://www.coursera.org/account/accomplishments/records/2M752MCCQLWF) |
+| Linux (cat linux.txt) | TryHackMe | [Badge](https://tryhackme.com/alovisiod/badges/terminaled) |
+| [IT] Full-Stack Web Development | Boolean | [Credential](https://credsverse.com/credentials/55b7168e-eb5f-4240-adbf-4bba088c7509) |
+
+## Get in touch
+
+Happy to talk about web development, legacy modernization or IT security.
+Write to me at **alovisiod@davidealovisioportfolio.com** or on [LinkedIn](https://www.linkedin.com/in/davide-alovisio/).
